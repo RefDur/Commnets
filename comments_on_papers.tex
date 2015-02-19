@@ -1,0 +1,38 @@
+\documentclass[11pt,twoside,a4paper]{article} 
+\usepackage{color}
+\usepackage{verbatim}
+\usepackage{graphicx,subfigure}
+\usepackage{natbib}
+\usepackage{tikz}
+\usepackage{hyperref}
+\usepackage{multirow}
+\usepackage{xspace}
+\usepackage{ulem}
+\hypersetup{
+  colorlinks,
+  citecolor=orange,
+  linkcolor=blue
+  }
+%\newcommand{\xmm}{\emph{\mbox{XMM-Newton}}\xspace}
+%\definecolor{turq}{RGB}{175,238,238}
+%\graphicspath{{./}{figs/}}
+
+\begin{document}
+The following articles are read and commented:
+\begin{itemize}
+  \item {\bf Visual Analysis and Steering of Flooding Simulations} \citep{ribicic:2012} -- visual presentation of flooding, simulations, data aggregation, color-coding of the water levels, expert and user feedback, questionnaire. Information visualization, aggregation, filtering, selecting. Interactive visual analysis mechanisms. Advices on how to represent and manipulate data.
+    \item  {\bf Geospatial Access and Data Display Adds Value to Data Management at the Biological and Chemical Oceanographic Data Management Office} \citep{dickson:2014} -- Visualizing the data on map, OGC-compliant geospatial interface MapServer implementation, heterogeneous data. Different displays, metadata, drupal, ``quick-look'' at data. More options create more complex user experience.
+    \item {\bf Sensor Network Applications} \citep{martinez:2004} -- Sensing, communication, computing and domain knowledge. Environment, glacier, wireless network architecture,TinyOS, open data, sensor network challenges: scalability, usability, standardization, security, remote management, list of sensors. \emph{FloodNet}.
+    \item {\bf Applying OGC Sensor Web Enablement to risk monitoring and disaster management} \citep{jirka:2009} -- OGC standards implementation examples, OSIRIS (definition, development and testing of services for surveillance and crisis management tasks), SWE. O\&M, SensorML, SOS, WNS, SPS, SAS specifications. Forest fire, flooding, air polution and hazard, fire detection in buildings, water pollution, monitoring of flood risks. Open Source Initiative $52^{\circ}$~North. Architecture and visualization. 
+    \item {\bf Metadata requirements analysis for the emerging Sensor Web} \citep{di:2008} -- Sensor Web, ISO and OGC standards, Earth Observation Satellites (CEOS), Sensor Web advantages and gaps; autonomy, interoperation/interoperability, collective effect, accessibility; requirements, metadata, metadata models and standards; XML, semantics, sensor quality indicators. Very good references.
+    \item {\bf Theoprastus: On demand and real-time automatic annotation and exploration of (web) documents using open linked data} \citep{fafalios:2014} 
+-- Automatic annotation, semantics, field-specified, Linked Open Data (LOD), Very good examples, a source of software related to annotation, SPARQL codes, analysis of the processing time.
+    \item {\bf Multilingual Crisis Knowledge Representation} -- Aviv Sagev \citep{sagev:2011} 
+    \item {\bf AsonMaps: A Platform for Aggregation Visualization and Analysis of Disaster Related Human Sensor Network Observations} \citep{aulov:2014} 
+-- Social Media, Twitter, Instragram, Flood, Huricane, US, visualization tool using Google Maps, Images to measure flood levels.
+\end{itemize}
+
+\bibliography{references}{}
+%\bibliographystyle{plain}
+\bibliographystyle{unsrtnat}
+\end{document}

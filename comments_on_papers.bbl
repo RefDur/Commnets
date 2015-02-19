@@ -1,0 +1,70 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ribi{\v c}i{\'c} et~al.(2012)Ribi{\v c}i{\'c}, Waser, Fuchs,
+  Bl{\"o}schl, and Gr{\"o}ller]{ribicic:2012}
+Hrvoje Ribi{\v c}i{\'c}, J{\"u}rgen Waser, Raphael Fuchs, G.~Bl{\"o}schl, and
+  Meister~Eduard Gr{\"o}ller.
+\newblock Visual analysis and steering of flooding simulations.
+\newblock \emph{IEEE Transaction on Visualization and Computer Graphics},
+  PP\penalty0 (99), 2012.
+
+\bibitem[Dickson and Galvarino(2014)]{dickson:2014}
+Allison~M. Dickson and Charlton Galvarino.
+\newblock Geospatial access and data display adds value to data management at
+  the biological and chemical oceanographic data management.
+\newblock 2014.
+
+\bibitem[Martinez et~al.(2004)Martinez, Hart, Ong, Brennan, Mielke, Torney,
+  Maccabe, Maroti, Simon, Ledeczi, et~al.]{martinez:2004}
+Kirk Martinez, Jane~K Hart, Royan Ong, S~Brennan, A~Mielke, D~Torney,
+  A~Maccabe, M~Maroti, G~Simon, A~Ledeczi, et~al.
+\newblock Sensor network applications.
+\newblock \emph{IEEE computer}, 37\penalty0 (8):\penalty0 50--56, 2004.
+
+\bibitem[Jirka et~al.(2009)Jirka, Br\"oring, and Stasch]{jirka:2009}
+Simon Jirka, Arne Br\"oring, and Christoph Stasch.
+\newblock Applying ogc sensor web enablement to risk monitoring and disaster
+  management.
+\newblock \emph{Proceeding of the 11th GSDI world conference. Rotterdam, The
+  Netherlands}, 2009.
+
+\bibitem[Di et~al.(2009)Di, Moe, and Yu]{di:2008}
+Liping Di, Karen~L. Moe, and Genong~(Eugene) Yu.
+\newblock Metadata requirements analysis for the emerging sensor web this was
+  orally presented at the european geosciences union general assembly 2008,
+  vienna, austria, 13–18 april 2008.
+\newblock \emph{International Journal of Digital Earth}, 2:\penalty0 3--17,
+  2009.
+
+\bibitem[Fafalios and Papadakos(2014)]{fafalios:2014}
+Pavlos Fafalios and Panagiotis Papadakos.
+\newblock Theophrastus: On demand and real-time automatic annotation and
+  exploration of (web) documents using open linked data.
+\newblock \emph{Web Semantics: Science, Services and Agents on the World Wide
+  Web}, 29\penalty0 (0):\penalty0 31 -- 38, 2014.
+\newblock ISSN 1570-8268.
+\newblock \doi{http://dx.doi.org/10.1016/j.websem.2014.07.009}.
+\newblock Life Science and e-Science.
+
+\bibitem[Jennex(2011)]{sagev:2011}
+Murray~E. Jennex, editor.
+\newblock \emph{Crisis Response and Management and Emerging Information
+  Systems: Critical Applications}.
+\newblock {IGI} Global, 2011.
+\newblock ISBN 9781609606091, 9781609606107.
+\newblock URL
+  \url{http://www.igi-global.com/chapter/multilingual-crisis-knowledge-representation/53989}.
+
+\bibitem[Aulov et~al.(2014)Aulov, {Price, Adam}, and {Halem,
+  Milton}]{aulov:2014}
+Oleg Aulov, {Price, Adam}, and {Halem, Milton}.
+\newblock {AsonMaps}: {A} {Platform} for {Aggregation} {Visualization} and
+  {Analysis} of {Disaster} {Related} {Human} {Sensor} {Network} {Observations}.
+\newblock page~5, University Park, Pennsylvania, USA, May 2014.
+
+\end{thebibliography}
